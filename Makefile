@@ -1,4 +1,4 @@
-all:	invitation_inner.pdf invitation_outer.pdf invitation_rsvp.tex
+all:	invitation_inner.pdf invitation_outer.pdf invitation_rsvp.pdf
 
 invitation_inner.pdf:	knotwork.pdf invitation_inner.tex
 	xelatex invitation_inner
