@@ -1,9 +1,9 @@
 # Thesis invitation #
 
 This project contains the invitation to the oral defence of my
-doctoral dissertation.
+doctoral dissertation.  A thumbnail sample appears below.
 
-It consists of three documents:
+The invitation consists of three documents:
 
 1. `invitation_inner.tex`, the interior page of the invitation.  The
 decorative border is from [the frontispiece of _Quadrans
@@ -19,8 +19,9 @@ Colines](https://en.wikipedia.org/wiki/Simon_de_Colines).
 
 The inner and outer page of the invitation are in separate documents
 to facilitate printing on a non-duplex colour printer.  They are
-intended to be printed 2-up on A4 paper, so each page is actually A5
-size.  The RSVP cards are printed as-is on A4 paper.
+intended to be printed 2-up on A4 card stock, so each page is actually
+A5 size.  The RSVP cards are printed as-is on A4 cardstock and then
+manually cut to size.
 
 To compile the docments, you need
 [XeTeX](http://xetex.sourceforge.net/) (and various third-party
@@ -33,3 +34,5 @@ Miller](http://www.nothingisreal.com/); the source code and resulting
 documents are released under the [Creative Commons Attribution 4.0
 International](https://creativecommons.org/licenses/by/4.0/) (CC BY
 4.0) licence.
+
+![A fancy-looking invitation to Tristan Miller's doctoral thesis defence](https://github.com/logological/thesis-invitation/blob/master/sample_output.png "Invitation inner page")
